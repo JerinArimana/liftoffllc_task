@@ -248,6 +248,7 @@ main .container {
   height: auto;
   margin: 0 auto;
   padding-top: 7rem;
+  padding-bottom: 7rem;
 }
 
 .banner .banner__image img {
